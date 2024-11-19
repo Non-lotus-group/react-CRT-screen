@@ -1,46 +1,36 @@
-# Getting Started with Create React App
+# ReactCRT-Screen
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ReactCRT-Screen is a React component designed to simulate the visual effects of a CRT monitor. It provides a customizable and authentic retro feel for your web content.
 
-## Available Scripts
+## Quick Start
 
-In the project directory, you can run:
+### Installation
 
-### `npm start`
+Install via npm (Work In Progress - WIP):
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```bash
+npm install react-crt-screen
+```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Usage
 
-### `npm test`
+WIP
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+ReactCRT-Screen provides several CRT visual effects, all of which are customizable (WIP):
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **Scanlines**  
+    Add horizontal scanlines to emulate the texture of CRT screens.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. **Noise**  
+    Introduce dynamic or static screen noise for a retro effect.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. **Chromatic Aberration**  
+    Simulate RGB color separation with adjustable intensity.
 
-### `npm run eject`
+4. **Barrel Distortion**  
+    Add barrel distortion to mimic the physical characteristics of CRT monitors.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+5. **Flicker**  
+    Recreate the subtle flicker typical of CRT displays, enhancing realism.
